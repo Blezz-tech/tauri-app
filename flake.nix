@@ -34,6 +34,9 @@
           cargo
           rustc
           nodejs
+          rustup
+          cargo-tauri
+          trunk
         ];
       in
       {
