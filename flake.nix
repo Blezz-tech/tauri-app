@@ -37,6 +37,7 @@
           rustup
           cargo-tauri
           trunk
+          # cargo-binutils
         ];
       in
       {
